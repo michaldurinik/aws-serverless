@@ -1,6 +1,6 @@
 /*global WildRydes _config AmazonCognitoIdentity AWSCognito*/
 
-var WildRydes = window.WildRydes || {};
+var WildRydes = window.UnicornsUserPool || {};
 
 (function scopeWrapper($) {
     var signinUrl = 'signin.html';
